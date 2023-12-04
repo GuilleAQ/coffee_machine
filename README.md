@@ -16,7 +16,7 @@
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Hardware circuit](#Hardware-circuit)
-- [Software](#Vector-creation)
+- [Software](#Software)
 - [Video demo](#Video-demo)
 
 
