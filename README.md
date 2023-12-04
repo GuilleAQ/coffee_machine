@@ -1,7 +1,7 @@
 #  Coffee machine
 
 <div align="center">
-<img width=600px src="" alt="explode"></a> 
+<img width=600px src="https://github.com/GuilleAQ/cafe_machine/blob/main/resources/figures/1.jpg" alt="explode"></a> 
 </div>
 
 <h3 align="center">  Coffee machine </h3>
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<img width=600px src="" alt="explode"></a> 
+<img width=600px src="https://github.com/GuilleAQ/cafe_machine/blob/main/resources/figures/circucito.jpg" alt="explode"></a> 
 </div>
 
 ## Software
